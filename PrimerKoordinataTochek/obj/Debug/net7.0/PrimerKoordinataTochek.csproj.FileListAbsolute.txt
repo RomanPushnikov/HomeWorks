@@ -1,0 +1,15 @@
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.csproj.AssemblyReference.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.AssemblyInfoInputs.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.AssemblyInfo.cs
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.csproj.CoreCompileInputs.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\bin\Debug\net7.0\PrimerKoordinataTochek.exe
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\bin\Debug\net7.0\PrimerKoordinataTochek.deps.json
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\bin\Debug\net7.0\PrimerKoordinataTochek.runtimeconfig.json
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\bin\Debug\net7.0\PrimerKoordinataTochek.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\bin\Debug\net7.0\PrimerKoordinataTochek.pdb
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\refint\PrimerKoordinataTochek.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.pdb
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\PrimerKoordinataTochek.genruntimeconfig.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimerKoordinataTochek\obj\Debug\net7.0\ref\PrimerKoordinataTochek.dll
