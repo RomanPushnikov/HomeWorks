@@ -1,0 +1,15 @@
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.csproj.AssemblyReference.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.AssemblyInfoInputs.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.AssemblyInfo.cs
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.csproj.CoreCompileInputs.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\bin\Debug\net7.0\PrimMthPow.exe
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\bin\Debug\net7.0\PrimMthPow.deps.json
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\bin\Debug\net7.0\PrimMthPow.runtimeconfig.json
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\bin\Debug\net7.0\PrimMthPow.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\bin\Debug\net7.0\PrimMthPow.pdb
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\refint\PrimMthPow.dll
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.pdb
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\PrimMthPow.genruntimeconfig.cache
+D:\Works Работы по ДЗ\Работа в классе\PrimMthPow\obj\Debug\net7.0\ref\PrimMthPow.dll
